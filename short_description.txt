@@ -1,1 +1,14 @@
 Topic Embedded Products provides a complete ecosystem of combinable and compatible embedded acceleration solutions. Our expertise in the field of embedded systems is put into practice by realizing the expanding Topic embedded products portfolio and helping our customers to realize theirs. We enable our customers to fast track their development with expertise, engineering capacity and productization. We take the greatest care in making sure both the hardware and the software part of our solutions are of the highest quality and support the latest tooling and kernel updates available.
+<br><br>
+Our products in the Architech Program consists of:
+<br><br>
+Miami SOM: System on Modules, based on Xilinx Zynq devices, combining dual core processors with FPGA fabric. Common-Of-The-Shelf, ready to use and certified solution to kick-start your application development. It is very suitable for rapid prototyping and production purposes.
+<br><br>
+Dyplo On Miami: Dynamic Process Loader, a patented solution, is an Operating System extension which enables simplified and integrated FPGA development from a software perspective. Dyplo provides developers with the ability to connect to various processing units of choice while dynamically loading, distributing and controlling tasks.
+<br><br>
+KIT: A complete, ready-to-use out-of-the-box integrated embedded development platform, enabling the immediate start of your prototype developments. The KIT includes a variety of communication interfaces, visualization ports and data acquisition slots.
+<br><br>
+Florida: A range of development boards to fast-track medical and generic prototype development or feasibility studies carrying a Miami SOM. For PC acceleration a dedicated PCI express board is available for high through-put, high bandwidth data processing.
+<br><br>
+Dsign: Embedded design services focused on the integration of the Topic Products portfolio in your embedded application. Think of carrier board customization, board support package enhancements, application software development, FPGA IP development, etc.
+
